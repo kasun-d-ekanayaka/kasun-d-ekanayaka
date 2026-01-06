@@ -1,6 +1,6 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">KASUN D EKANAYAKA</h1>
+<h1 align="center">Hi <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/>, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">KASUN D EKANAYAKA</h1>
 
 <p align="center">
   <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%23008000&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+a+University+student;Web+Dev;Game+Dev;Graphic+Design"></a>
