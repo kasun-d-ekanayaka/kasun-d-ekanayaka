@@ -20,12 +20,22 @@ I enjoy learning new technologies, experimenting with **3D graphics**, and turni
 
 
 ## 🧠 About Me
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
 
 - 🎓 BT (Hons) in ICT Undergraduate  
 - 🎮 Interested in **Game Development (Unity & Unreal Engine)**  
 - 💻 Enjoy coding, problem-solving & system design  
 - 🌱 Currently learning **C#, JavaScript, 3D Graphics**  
 - 🎯 Goal: Become a **Professional Game / Software Developer**
+
+</td>
+<td width="50%" align="center">
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+</td>
+</tr>
+</table>
 
 ---
 
