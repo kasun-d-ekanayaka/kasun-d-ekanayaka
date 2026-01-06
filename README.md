@@ -3,13 +3,7 @@
 <p align="center">
   <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%23008000&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+a+University+student;Web+Dev;Game+Dev;Graphic+Design"></a>
 </p>
-
-🎮 Aspiring Game Developer | 💻 ICT Undergraduate | 🚀 Coding & 3D Enthusiast 
-
-
-
-
-
+---
 I'm passionate about building interactive experiences through **game development and programming**.  
 I enjoy learning new technologies, experimenting with **3D graphics**, and turning ideas into **playable projects**.
 <p align="center"> 
