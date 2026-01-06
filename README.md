@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">KASUN D EKANAYAKA</h1>
- I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
+
 
 🎮 Aspiring Game Developer | 💻 ICT Undergraduate | 🚀 Coding & 3D Enthusiast  
 
