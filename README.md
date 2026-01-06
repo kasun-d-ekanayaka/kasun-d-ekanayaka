@@ -4,7 +4,9 @@
 
 I'm passionate about building interactive experiences through **game development and programming**.  
 I enjoy learning new technologies, experimenting with **3D graphics**, and turning ideas into **playable projects**.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=kasun-d-ekanayaka&label=Profile%20views&color=0e75b6&style=flat" alt="kasun-d-ekanayaka" /> 
+</p>
 
 ---
 
