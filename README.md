@@ -1,16 +1,63 @@
-## Hi there 👋
+# 👋 Hi, I'm Kasun D Ekanayaka
 
-<!--
-**kasun-d-ekanayaka/kasun-d-ekanayaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Aspiring Game Developer | 💻 ICT Undergraduate | 🚀 Coding & 3D Enthusiast  
 
-Here are some ideas to get you started:
+I'm passionate about building interactive experiences through **game development and programming**.  
+I enjoy learning new technologies, experimenting with **3D graphics**, and turning ideas into **playable projects**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+- 🎓 BT (Hons) in ICT Undergraduate  
+- 🎮 Interested in **Game Development (Unity & Unreal Engine)**  
+- 💻 Enjoy coding, problem-solving & system design  
+- 🌱 Currently learning **C#, JavaScript, 3D Graphics**  
+- 🎯 Goal: Become a **Professional Game / Software Developer**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+- C#  
+- JavaScript  
+- Python (Basic)
+
+### 🎮 Game & 3D
+- Unity (Learning)  
+- Unreal Engine (Learning)  
+- Three.js  
+- Blender (Basic)
+
+### 🌐 Web & Tools
+- HTML5 / CSS3  
+- Git & GitHub  
+- VS Code
+
+---
+
+## 🎮 Projects (Coming Soon)
+
+- 🎲 Mini Games using Unity  
+- 🧊 3D Interactive Projects (Three.js)  
+- 🧠 University ICT Projects  
+
+⚡ Repositories will be updated regularly as I build new projects.
+
+---
+
+## 📊 GitHub Goals
+
+- ✅ Build a strong **Game Development portfolio**  
+- ✅ Improve **clean & readable code practices**  
+- ✅ Learn **industry-level development standards**
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: *(Coming Soon)*  
+- 🌐 Portfolio Website: *(Coming Soon)*  
+
+⭐ Feel free to explore my repositories and follow my journey in **coding & game development**!
