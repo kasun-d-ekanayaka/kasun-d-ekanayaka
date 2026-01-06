@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Kasun D Ekanayaka
+<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
+KASUN D EKANAYAKA</a></h1>
 
 🎮 Aspiring Game Developer | 💻 ICT Undergraduate | 🚀 Coding & 3D Enthusiast  
 
