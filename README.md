@@ -14,11 +14,6 @@
 
 
 ---
-I'm passionate about building interactive experiences through **game development and programming**.  
-I enjoy learning new technologies, experimenting with **3D graphics**, and turning ideas into **playable projects**.
-
-
-
 ## 🧠 About Me
 <table align="center">
 <tr border="none">
