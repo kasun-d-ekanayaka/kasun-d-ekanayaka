@@ -57,7 +57,7 @@ I enjoy learning new technologies, experimenting with **3D graphics**, and turni
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: *(Coming Soon)*  
+- 💼 LinkedIn: *(https://www.linkedin.com/in/kasun-d-ekanayaka-4977b4340)*  
 - 🌐 Portfolio Website: *(Coming Soon)*  
 
 ⭐ Feel free to explore my repositories and follow my journey in **coding & game development**!
