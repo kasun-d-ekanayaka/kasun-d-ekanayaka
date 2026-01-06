@@ -69,9 +69,18 @@ I enjoy learning new technologies, experimenting with **3D graphics**, and turni
 
 ## 🤝 Connect With Me
 
+<p align="left">
+ <a href="https://www.linkedin.com/in/kasun-d-ekanayaka-4977b4340/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="adam pithewan" height="30" width="40" /></a>
+
 - 💼 LinkedIn: *(https://www.linkedin.com/in/kasun-d-ekanayaka-4977b4340)*
 - 📱 WhatsApp: https://wa.me/+94784431652
 - 📧 Gmail: kdilruksha2004.com
+</p>
+
+
+
    
 
 ⭐ Feel free to explore my repositories and follow my journey in **coding & game development**!
