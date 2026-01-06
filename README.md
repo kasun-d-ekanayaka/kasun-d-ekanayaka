@@ -61,7 +61,9 @@ I enjoy learning new technologies, experimenting with **3D graphics**, and turni
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: *(https://www.linkedin.com/in/kasun-d-ekanayaka-4977b4340)*  
-- 🌐 Portfolio Website: *(Coming Soon)*  
+- 💼 LinkedIn: *(https://www.linkedin.com/in/kasun-d-ekanayaka-4977b4340)*
+- 📱 WhatsApp: https://wa.me/+94784431652
+- 📧 Gmail: kdilruksha2004.com
+   
 
 ⭐ Feel free to explore my repositories and follow my journey in **coding & game development**!
