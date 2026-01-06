@@ -1,3 +1,5 @@
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">KASUN D EKANAYAKA</h1>
 
 <p align="center">
@@ -69,3 +71,5 @@ I enjoy learning new technologies, experimenting with **3D graphics**, and turni
    
 
 ⭐ Feel free to explore my repositories and follow my journey in **coding & game development**!
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
