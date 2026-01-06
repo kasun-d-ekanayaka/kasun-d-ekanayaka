@@ -72,13 +72,13 @@ I enjoy learning new technologies, experimenting with **3D graphics**, and turni
 <p align="left">
  <a href="https://www.linkedin.com/in/kasun-d-ekanayaka-4977b4340/" target="blank"><img align="center"
       src="https://img.icons8.com/fluency/48/000000/linkedin.png"
-      alt="kasun-d-ekanayaka" height="40" width="45" /></a>
+      alt="kasun-d-ekanayaka" height="45" width="45" /></a>
  <a href="https://www.instagram.com/kasun_dilrukx?igsh=dHA5MXc5dWpjejB4" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="kasun-d-ekanayaka" height="30" width="40" /></a>
+      alt="kasun-d-ekanayaka" height="45" width="45" /></a>
   <a href="mailto:kdilruksha2004@gmail.com" target="blank"><img align="center"
       src="https://img.icons8.com/fluency/48/000000/apple-mail.png"
-      alt="kasun-d-ekanayaka" height="40" width="45" /></a> 
+      alt="kasun-d-ekanayaka" height="45" width="45" /></a> 
 
 </p>
 
