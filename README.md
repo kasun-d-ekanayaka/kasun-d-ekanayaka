@@ -1,5 +1,6 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 <p align="center"> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 150px> 
 </p> 
 <br>
@@ -12,12 +13,8 @@
   <img src="https://komarev.com/ghpvc/?username=kasun-d-ekanayaka&label=Profile%20views&color=0e75b6&style=flat" alt="kasun-d-ekanayaka" /> 
 </p>
 
-<p align="center"> 
-  <i><b>Profile Visitor Count...</b></i><br><br>
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br>
-  </p>
----
 
+---
 I'm passionate about building interactive experiences through **game development and programming**.  
 I enjoy learning new technologies, experimenting with **3D graphics**, and turning ideas into **playable projects**.
 
