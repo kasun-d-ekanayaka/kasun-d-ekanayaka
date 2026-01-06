@@ -1,10 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">KASUN D EKANAYAKA</h1>
 
-<p align="center">
-	<a href="https://github.com/kasun-d-ekanayaka">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=💻 BT(HONS)ICT Undergraduate ;🎮 Aspiring Game Developer ;🚀 Coding & 3D Enthusiast ;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
-	</a>
-</p>
+🎮 Aspiring Game Developer | 💻 ICT Undergraduate | 🚀 Coding & 3D Enthusiast 
 
 
 
