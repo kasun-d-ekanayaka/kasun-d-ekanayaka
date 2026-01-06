@@ -8,6 +8,12 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=kasun-d-ekanayaka&label=Profile%20views&color=0e75b6&style=flat" alt="kasun-d-ekanayaka" /> 
 </p>
+
+<p align="center"> 
+  <i><b>Profile Visitor Count...</b></i><br><br>
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br><br>
+  <img src="https://profile-counter.glitch.me/lostgirljourney/count.svg" />
+</p>
 ---
 
 I'm passionate about building interactive experiences through **game development and programming**.  
