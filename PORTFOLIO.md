@@ -19,11 +19,11 @@ Hi! I am **KASUN D EKANAYAKA**, currently pursuing my **BT(hons) in ICT** at KDU
 ### 🛠 Learning Roadmap
 *A track of my ongoing and upcoming technical skills.*
 
-- [x] **Kali Linux** - Virtual Environment Setup & Config
-- [x] **Metasploit** - Penetration Testing Framework Basics
-- [ ] **Web Development** - Full-Stack Development Path
+- [ ] **Kali Linux** - Virtual Environment Setup & Config
+- [ ] **Metasploit** - Penetration Testing Framework Basics
+- [x] **Web Development** - Full-Stack Development Path
 - [ ] **Advanced Security** - Network & Cloud Security
-- [ ] **Project Management** - Technical Documentation (SRS)
+- [x] **Project Management** - Technical Documentation (SRS)
 
 ---
 
