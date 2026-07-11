@@ -9,9 +9,11 @@ Hi! I am **KASUN D EKANAYAKA**, currently pursuing my **BT(hons) in ICT** at KDU
 
 | Certification Name | Issued By | Status |
 | :--- | :--- | :--- |
-| Introduction to Cybersecurity Awareness | [Example Provider] | ✅ Completed |
-| Cybersecurity Fundamentals | [Example Provider] | ✅ Completed |
-
+| Python For Beginners | University Of Moratuwa  | ✅ Completed |
+| Introduction to C++ | Sololearn | ✅ Completed |
+| Introduction to Cybersecurity Awareness | HP LIFE | ✅ Completed |
+| AI for Beginners | HP LIFE | ✅ Completed |
+| AI for Business Professionals | HP LIFE | ✅ Completed |
 ---
 
 ### 🛠 Learning Roadmap
