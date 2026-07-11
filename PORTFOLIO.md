@@ -9,7 +9,7 @@ Hi! I am **KASUN D EKANAYAKA**, currently pursuing my **BT(hons) in ICT** at KDU
 
 | Certification Name | Issued By | Status |
 | :--- | :--- | :--- |
-| Ethical Hacking Essentials | [Example Provider] | ✅ Completed |
+| Introduction to Cybersecurity Awareness | [Example Provider] | ✅ Completed |
 | Cybersecurity Fundamentals | [Example Provider] | ✅ Completed |
 
 ---
