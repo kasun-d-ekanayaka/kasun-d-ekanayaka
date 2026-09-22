@@ -61,7 +61,7 @@
 - 🧠 University ICT Projects  
 
 ⚡ Repositories will be updated regularly as I build new projects.
----
+
 
 ## 📜 Certifications
 
