@@ -61,6 +61,11 @@
 - 🧠 University ICT Projects  
 
 ⚡ Repositories will be updated regularly as I build new projects.
+---
+
+## 📜 Certifications
+
+👉 [View My Certifications](https://github.com/kasun-d-ekanayaka/Certifications)
 
 ---
 
