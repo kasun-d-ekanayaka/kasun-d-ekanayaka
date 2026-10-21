@@ -8,9 +8,9 @@
 <p align="center">
   <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%23008000&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+a+University+student;Web+Dev;Game+Dev;Graphic+Design"></a>
 </p>
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=kasun-d-ekanayaka&label=Profile%20views&color=0e75b6&style=flat" alt="kasun-d-ekanayaka" /> 
-</p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/xBTSwCTFkgfcdTjHMz/giphy.gif" width="100"/>
+</div>
 
 
 ---
